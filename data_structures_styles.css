@@ -1,0 +1,48 @@
+h1
+{
+	background-color:#4860FA;
+	text-align: center;
+	color: white;
+}
+h3
+{
+	background-color: #4860FA;
+	text-align: center;
+	color: white;
+}
+nav
+{
+	background-color: #4860FA;
+	text-align: center;
+}
+.button
+	{
+		padding: 10px 10px 10px 10px;
+		background-color: #4860FA;
+		border-radius: 7px;
+		color: white;
+		text-align: center;
+	}
+.data_names
+{
+	background-color: #eae9ed;
+}
+.inset
+{
+	margin: 5px;
+	border: 1px solid black;
+	padding: 5px;
+	float: right;
+	width: 150px;
+}
+.inset img
+{
+	width: 100%;
+	height: auto;
+}
+.caption
+{
+	padding: 2px;
+	text-align: center;
+}
+
